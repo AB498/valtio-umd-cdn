@@ -1,6 +1,9 @@
 # valtio-umd-cdn
 
 Demo: [https://ab498.github.io/cdn/example.html](https://ab498.github.io/cdn/example.html)
+<br>
+CDN: `<script src="https://ab498.github.io/cdn/valtio-standalone.js"></script>`
+<br>
 
 ```html
 <div id="root"></div>
